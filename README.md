@@ -1,6 +1,6 @@
 # Malbolge
 
-Experience true programming hell with my malbolge interpreter.
+My totally accurate malbolge interpreter.
 
 To run
 
