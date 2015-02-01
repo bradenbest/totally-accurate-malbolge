@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Braden's totally accurate malbolge interpreter
+# Braden's Totally Accurate Malbolge interpreter
 
 from random import randint
 import sys
