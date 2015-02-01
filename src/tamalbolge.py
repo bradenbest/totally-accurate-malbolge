@@ -50,4 +50,4 @@ if len(sys.argv) > 1:
         else:
             print(outputs[i])
 else:
-    print("Usage: python3 %s file.mal" % argv[0])
+    print("Usage: python3 %s file.mal" % sys.argv[0])
